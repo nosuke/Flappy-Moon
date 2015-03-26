@@ -21,6 +21,6 @@ Jeu vidéo reposant sur quelques mécaniques simples : avancement automatique du
 *******************************************<br>
 
 <b>Quand ?</b> Du 30 au 31 octobre 2014.<br>
-<b>Combien de temps ?</b> 1 jour.
+<b>Combien de temps ?</b> 1 jour.<br>
 <b>Quelle équipe ?</b> 1 membre :<br>
 – Florent Lucet.
