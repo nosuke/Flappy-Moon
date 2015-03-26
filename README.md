@@ -6,7 +6,7 @@ Version Halloween du jeu vidéo <i>Flappy Bird</i>.
 **************************************<br>
 
 Moteur de jeu : Unity.<br>
-Langages : C#.
+Langage : C#.
 
 ******************************************<br>
 ****** DESCRIPTION DÉTAILLÉE ******<br>
