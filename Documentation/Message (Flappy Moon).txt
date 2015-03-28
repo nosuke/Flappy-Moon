@@ -1,0 +1,12 @@
+[img]http://img4.hostingpics.net/pics/965902FlappyMoon.png[/img]
+
+
+Comme prévu dans le laboratoire, le jeu s'inspire (fortement) des mécaniques de base de [i]Flappy Bird[/i] et utilise Halloween comme thématique pour l'habillage de scène.
+
+Les ressources graphiques utilisées viennent de [i]The Legend of Zelda : Majora's Mask[/i] (pour le joueur-lune), [i]Tron[/i] (pour les obstacles-MCP) et [i]Cosmology of Kyoto[/i] (pour le mélange d'images réalisé et servant de fond).
+
+Le jeu se joue uniquement avec la barre espace servant à sauter tout au long du jeu.
+
+Pour pouvoir y jouer, il suffit de télécharger les deux pièces jointes et d'exécuter le document HTML via un navigateur internet.
+
+Bon jeu ! :)
